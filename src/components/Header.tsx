@@ -1,27 +1,20 @@
-import Link from 'next/link'
+import { NavLinks } from "./NavLinks";
+import Image from "next/image";
 
 const Header = () => {
-  return (
-    <nav className="layout flex items-center justify-between py-4">
-      <ul className="flex items-center justify-between space-x-3 text-xs md:space-x-4 md:text-base">
-        <li>
-          <Link href="/" className="hover:underline">
-            Home
-          </Link>
-        </li>
-        <li>
-          <Link href="/#posts" className="hover:underline">
-            Posts
-          </Link>
-        </li>
-        <li>
-          <Link href="/#projects" className="hover:underline">
-            Projects
-          </Link>
-        </li>
-      </ul>
-    </nav>
-  )
-}
+	return (
+		<header className="mx-auto w-full max-w-screen-2xl h-fit text-black border-black border-2">
+			<nav className="flex px-4 items-center justify-between h-full mx-auto">
+				<Image
+					src="/images/logo-placeholder.png"
+					width={50}
+					height={50}
+					alt="Quill and Scroll with typewriter-style words reading 're: missives'"
+				/>
+				<NavLinks />
+			</nav>
+		</header>
+	);
+};
 
-export default Header
+export default Header;
