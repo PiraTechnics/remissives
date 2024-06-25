@@ -10,8 +10,8 @@ const Header = () => {
 				<div id="logo-group">
 					<Image
 						src="/images/logo-placeholder.png"
-						width={50}
-						height={50}
+						width={100}
+						height={100}
 						alt="Quill and Scroll with typewriter-style words reading 're: missives'"
 					/>
 				</div>

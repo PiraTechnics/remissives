@@ -15,7 +15,7 @@ export default function DarkmodeToggle() {
 			checked={enabled}
 			onChange={setEnabled}
 			className={classNames(
-				enabled ? "bg-indigo-600" : "bg-gray-200",
+				enabled ? "bg-[#3578b5]" : "bg-gray-200",
 				"relative inline-flex h-6 w-11 flex-shrink-0 cursor-pointer rounded-full border-2 border-transparent transition-colors duration-200 ease-in-out"
 			)}
 		>
@@ -60,7 +60,7 @@ export default function DarkmodeToggle() {
 					aria-hidden="true"
 				>
 					<svg
-						className="h-4 w-4 text-indigo-600"
+						className="h-4 w-4 text-[#3578b5]"
 						fill="none"
 						viewBox="0 0 24 24"
 						strokeWidth={2}
