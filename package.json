@@ -8,6 +8,8 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@headlessui/react": "^2.1.0",
+    "@heroicons/react": "^2.1.4",
     "date-fns": "^2.30.0",
     "gray-matter": "^4.0.3",
     "next": "^14.2.4",
