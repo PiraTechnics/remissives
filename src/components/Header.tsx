@@ -5,7 +5,7 @@ import Searchbar from "./Searchbar";
 
 const Header = () => {
 	return (
-		<header className="mx-auto w-full max-w-screen-2xl h-fit text-black">
+		<header className="mx-auto w-full max-w-screen-2xl h-fit text-black mb-8">
 			<nav className="flex px-4 items-center justify-around h-full mx-auto">
 				<div id="logo-group">
 					<Image
