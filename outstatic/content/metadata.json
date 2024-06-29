@@ -1,6 +1,6 @@
 {
-  "commit": "4b9e5d0c880636232d41c8748260ff7fadd5e925",
-  "generated": "2024-06-29T16:05:49.931Z",
+  "commit": "fc5ef362eaeed383ea5d8f830e2a147470cb0b10",
+  "generated": "2024-06-29T16:20:17.179Z",
   "metadata": [
     {
       "__outstatic": {
@@ -85,6 +85,26 @@
       "slug": "about",
       "status": "published",
       "title": "About"
+    },
+    {
+      "__outstatic": {
+        "commit": "fc5ef362eaeed383ea5d8f830e2a147470cb0b10",
+        "hash": "587923813",
+        "path": "outstatic/content/posts/setting-sail.md"
+      },
+      "author": {
+        "name": "Devin Younge",
+        "picture": "/images/profile-signature-k3MT.jpg"
+      },
+      "collection": "posts",
+      "coverImage": "/images/outset-island-Y3Mj.jpg",
+      "description": "A new beginning, a blank page, dipping the ink",
+      "publishedAt": "2024-06-29T15:23:53.077Z",
+      "slug": "setting-sail",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Setting Sail"
     }
   ]
 }
