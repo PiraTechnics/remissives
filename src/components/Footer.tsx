@@ -36,7 +36,7 @@ const Footer = () => {
 						height={100}
 						alt="Quill and Scroll with typewriter-style words reading 're: missives'"
 					/>
-					<div id="footer-copyright">
+					<div id="footer-copyright" className="text-sm italic">
 						&copy; {today.getFullYear()} Devin Younge
 					</div>
 				</div>

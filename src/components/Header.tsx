@@ -22,8 +22,8 @@ const Header = () => {
 					id="utility-group"
 					className="flex items-center gap-2 max-sm:hidden"
 				>
-					<DarkmodeToggle />
-					<Searchbar />
+					{/* <DarkmodeToggle />
+					<Searchbar /> */}
 				</div>
 			</nav>
 		</header>
