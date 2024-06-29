@@ -1,6 +1,6 @@
 {
-  "commit": "3485bc30205f1272ddeb6c38fb45f3ea733b4b32",
-  "generated": "2024-06-29T17:28:35.386Z",
+  "commit": "20447ab41114d2934171c3f214fb3dce95d05d22",
+  "generated": "2024-06-29T20:41:05.672Z",
   "metadata": [
     {
       "__outstatic": {
@@ -40,8 +40,8 @@
     },
     {
       "__outstatic": {
-        "commit": "3485bc30205f1272ddeb6c38fb45f3ea733b4b32",
-        "hash": "485277646",
+        "commit": "20447ab41114d2934171c3f214fb3dce95d05d22",
+        "hash": "1875066709",
         "path": "outstatic/content/posts/setting-sail.md"
       },
       "author": {

@@ -17,7 +17,7 @@ There's something oddly magical about starting a day in the twilight of pre-dawn
 
 I don't know about you, but looking through that frame always makes my problems seem silly.
 
-Anyway, enough musing on cosmic (in)significance. 
+Anyway, enough musing on cosmic (in)significance.
 
 I'm marking today as the start of something. As long as I can remember, I have enjoyed the written word. I started reading at a young age -- and am ever-thankful to my parents for encouraging it. I'm sure they weren't the first, but I have fond memories of scholastic classics such as *The Berenstain Bears* and *The Magic School Bus*. Naturally, the Scholastic Book Fair was the event of the season for little me.
 
@@ -25,7 +25,7 @@ I'm marking today as the start of something. As long as I can remember, I have e
 
 As I got older, the books I read changed, and I slowly learned more and more about what I enjoyed in fiction, as well as writing styles. I tried my hand several times at writing myself, although I don't recall the specifics of those early attempts.
 
-## *It's all about the story*
+## *It's all a*bout the story
 
 You see, the one thing I realized about myself from the get-go was that I loved *stories*. I loved reading them, I loved telling them, I loved thinking about them. Even as I 'grew up', this remained true. Towards the end of high school, and on into university, I'd mostly swapped the book for a game controller -- but inevitably it seems, I always preferred games that were much bigger on narrative than shiny graphics.
 
@@ -33,13 +33,9 @@ I had slowly fallen out of the habit of reading (books) sometime into my post-sc
 
 ![A bunch of nerdy-ass voice actors sitting around and playing Dungeons & Dragons](/images/critical-role-I1NT.jpg)
 
-> Critical Role, a recorded show where 'A Bunch of Nerdy-ass voice actors sit around and play *Dungeons & Dragons*'
-
 Playing for the few months before my contract was up stirred something in me. A seed, planted long ago and neglected in recent years, soaked in some much-needed nourishment. Over the next few years, it would slowly blossom, as I spent time, first in the early stages of the Covid pandemic, then broadly, reading and reigniting my passion for stories. I began what would develop into a four year *D&D* campaign with friends across the country. I dove headlong into mythology and folklore, jumpstarted by obsessive (and frequently wine-fueled) *Hades* runs. And I read, and read, and *read*.
 
 ![Cover art for Hades by SuperGiant Games, featuring Zagreus, a lithe, spiky-haired protagonist hoding a sword in one hand and reaching out for a crystal with another](/images/hades-E5Mj.jpg)
-
-> *Hades*, the masterful roguelike game from Indie darling, Supergiant.
 
 ## *The bottom falls out*
 
