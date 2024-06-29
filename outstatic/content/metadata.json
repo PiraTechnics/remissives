@@ -1,12 +1,64 @@
 {
-  "commit": "0aed4991d752c697f4b8b1c8e6c120c6827a4e09",
-  "generated": "2024-06-29T14:28:43.853Z",
+  "commit": "ff96f7ad9a2fc85c8b3cfcf5202c513cc1af747c",
+  "generated": "Sat, 29 Jun 2024 14:39:56 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "bf4993b965319da4cb9de4a3810fb4af12bdebd6",
-        "hash": "2596208214",
-        "path": "/outstatic/content/posts/how-to-create-an-outstatic-blog.md"
+        "commit": "2e64df7da2ed2157e963e5ad61d2e00dbc3c3a78",
+        "hash": "2163459916",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Devin Younge",
+        "picture": "/images/profile-signature-M2NT.jpg"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog.",
+      "publishedAt": "2024-06-18T22:15:07.000Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
+        "hash": "3707858083",
+        "path": "outstatic/content/posts/the-wrong-decision.md"
+      },
+      "author": {
+        "name": "Naval Ravikant"
+      },
+      "collection": "posts",
+      "coverImage": "/images/skyline.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "publishedAt": "2022-03-26T05:35:07.322Z",
+      "slug": "the-wrong-decision",
+      "status": "published",
+      "title": "If you want to make the wrong decision, ask everyone"
+    },
+    {
+      "__outstatic": {
+        "commit": "d2f316fd04def3347c906f5227da5daf79971f61",
+        "hash": "4086614036",
+        "path": "outstatic/content/posts/nothing-wrong.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/industrial-pattern.png",
+      "description": "One more day, one more joy. I feel blessed.",
+      "publishedAt": "2022-09-14T17:55:40.452Z",
+      "slug": "nothing-wrong",
+      "status": "published",
+      "title": "Nothing is wrong. Everything is perfect"
+    },
+    {
+      "__outstatic": {
+        "commit": "525018a11c751fe66b5d0737807e67e06955cecd",
+        "hash": "2506648264",
+        "path": "outstatic/content/posts/how-to-create-an-outstatic-blog.md"
       },
       "author": {
         "name": "Andre Vitorio"
@@ -32,58 +84,6 @@
         }
       ],
       "title": "Learn how to create your blog with Outstatic"
-    },
-    {
-      "__outstatic": {
-        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
-        "hash": "3707858083",
-        "path": "/outstatic/content/posts/the-wrong-decision.md"
-      },
-      "author": {
-        "name": "Naval Ravikant"
-      },
-      "collection": "posts",
-      "coverImage": "/images/skyline.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-26T05:35:07.322Z",
-      "slug": "the-wrong-decision",
-      "status": "published",
-      "title": "If you want to make the wrong decision, ask everyone"
-    },
-    {
-      "__outstatic": {
-        "commit": "d2f316fd04def3347c906f5227da5daf79971f61",
-        "hash": "4086614036",
-        "path": "/outstatic/content/posts/nothing-wrong.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/industrial-pattern.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
-      "status": "published",
-      "title": "Nothing is wrong. Everything is perfect"
-    },
-    {
-      "__outstatic": {
-        "commit": "0aed4991d752c697f4b8b1c8e6c120c6827a4e09",
-        "hash": "2163459916",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Devin Younge",
-        "picture": "/images/profile-signature-M2NT.jpg"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2024-06-18T22:15:07.000Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
     }
   ]
 }
