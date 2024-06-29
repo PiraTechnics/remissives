@@ -1,35 +1,7 @@
 {
-  "commit": "ee605df8581888e1dd1dc8b3a050c9b33b0fceba",
-  "generated": "Sat, 29 Jun 2024 16:24:16 GMT",
+  "commit": "3485bc30205f1272ddeb6c38fb45f3ea733b4b32",
+  "generated": "2024-06-29T17:28:35.386Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "f0b761b344615289074dd965b5cb8858f230edc9",
-        "hash": "1311153231",
-        "path": "outstatic/content/posts/setting-sail.md"
-      },
-      "author": {
-        "name": "Devin Younge",
-        "picture": "/images/profile-signature-k3MT.jpg"
-      },
-      "collection": "posts",
-      "coverImage": "/images/outset-island-Y3Mj.jpg",
-      "description": "A new beginning, a blank page, dipping the ink",
-      "publishedAt": "2024-06-29T15:23:53.077Z",
-      "slug": "setting-sail",
-      "status": "published",
-      "tags": [
-        {
-          "label": "Musings",
-          "value": "musings"
-        },
-        {
-          "label": "Writing",
-          "value": "writing"
-        }
-      ],
-      "title": "Setting Sail"
-    },
     {
       "__outstatic": {
         "commit": "2e64df7da2ed2157e963e5ad61d2e00dbc3c3a78",
@@ -65,6 +37,34 @@
       "slug": "about",
       "status": "published",
       "title": "About"
+    },
+    {
+      "__outstatic": {
+        "commit": "3485bc30205f1272ddeb6c38fb45f3ea733b4b32",
+        "hash": "485277646",
+        "path": "outstatic/content/posts/setting-sail.md"
+      },
+      "author": {
+        "name": "Devin Younge",
+        "picture": "/images/profile-signature-k3MT.jpg"
+      },
+      "collection": "posts",
+      "coverImage": "/images/outset-island-Y3Mj.jpg",
+      "description": "A new beginning, a blank page, dipping the ink",
+      "publishedAt": "2024-06-29T15:23:53.077Z",
+      "slug": "setting-sail",
+      "status": "published",
+      "tags": [
+        {
+          "label": "Musings",
+          "value": "musings"
+        },
+        {
+          "label": "Writing",
+          "value": "writing"
+        }
+      ],
+      "title": "Setting Sail"
     }
   ]
 }
