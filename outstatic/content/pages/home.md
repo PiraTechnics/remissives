@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-status: 'draft'
+status: 'published'
 author:
   name: 'Devin Younge'
   picture: '/images/profile-signature-M2NT.jpg'
