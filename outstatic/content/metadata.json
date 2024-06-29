@@ -1,24 +1,7 @@
 {
   "commit": "4b9e5d0c880636232d41c8748260ff7fadd5e925",
-  "generated": "2024-06-29T16:05:46.096Z",
+  "generated": "2024-06-29T16:05:49.931Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
-        "hash": "3707858083",
-        "path": "outstatic/content/posts/the-wrong-decision.md"
-      },
-      "author": {
-        "name": "Naval Ravikant"
-      },
-      "collection": "posts",
-      "coverImage": "/images/skyline.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-03-26T05:35:07.322Z",
-      "slug": "the-wrong-decision",
-      "status": "published",
-      "title": "If you want to make the wrong decision, ask everyone"
-    },
     {
       "__outstatic": {
         "commit": "d2f316fd04def3347c906f5227da5daf79971f61",
@@ -35,6 +18,37 @@
       "slug": "nothing-wrong",
       "status": "published",
       "title": "Nothing is wrong. Everything is perfect"
+    },
+    {
+      "__outstatic": {
+        "commit": "525018a11c751fe66b5d0737807e67e06955cecd",
+        "hash": "2506648264",
+        "path": "outstatic/content/posts/how-to-create-an-outstatic-blog.md"
+      },
+      "author": {
+        "name": "Andre Vitorio"
+      },
+      "collection": "posts",
+      "coverImage": "/images/jupiter-spaceship.png",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
+      "publishedAt": "2022-07-14T02:34:02.322Z",
+      "slug": "how-to-create-an-outstatic-blog",
+      "status": "published",
+      "tags": [
+        {
+          "label": "NextJs",
+          "value": "nextJs"
+        },
+        {
+          "label": "GitHub",
+          "value": "gitHub"
+        },
+        {
+          "label": "Outstatic",
+          "value": "outstatic"
+        }
+      ],
+      "title": "Learn how to create your blog with Outstatic"
     },
     {
       "__outstatic": {
