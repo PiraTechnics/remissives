@@ -20,6 +20,14 @@
         {
           "value": "outstatic",
           "label": "Outstatic"
+        },
+        {
+          "value": "musings",
+          "label": "Musings"
+        },
+        {
+          "value": "writing",
+          "label": "Writing"
         }
       ]
     }

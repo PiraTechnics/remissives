@@ -1,6 +1,6 @@
 {
   "commit": "86f0e5152bf7cdeb94aac45a3203db92d6cadf80",
-  "generated": "2024-06-29T16:20:38.654Z",
+  "generated": "2024-06-29T16:21:15.507Z",
   "metadata": [
     {
       "__outstatic": {
@@ -89,7 +89,7 @@
     {
       "__outstatic": {
         "commit": "86f0e5152bf7cdeb94aac45a3203db92d6cadf80",
-        "hash": "976458886",
+        "hash": "2891161477",
         "path": "outstatic/content/posts/setting-sail.md"
       },
       "author": {
@@ -103,6 +103,14 @@
       "slug": "setting-sail",
       "status": "published",
       "tags": [
+        {
+          "label": "Musings",
+          "value": "musings"
+        },
+        {
+          "label": "Writing",
+          "value": "writing"
+        }
       ],
       "title": "Setting Sail"
     }

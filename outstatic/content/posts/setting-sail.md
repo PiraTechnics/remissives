@@ -7,7 +7,7 @@ author:
 slug: 'setting-sail'
 description: 'A new beginning, a blank page, dipping the ink'
 coverImage: '/images/outset-island-Y3Mj.jpg'
-tags: []
+tags: [{"label":"Musings","value":"musings"},{"label":"Writing","value":"writing"}]
 publishedAt: '2024-06-29T15:23:53.077Z'
 ---
 
