@@ -10,8 +10,6 @@ coverImage: ''
 publishedAt: '2024-06-18T22:15:07.000Z'
 ---
 
-## Hi there,
+## Welcome to Re: Missives
 
-# I'm Devin, nice to meet you.
-
-I am a Web Developer, Writer, Tabletop Games Enthusiast, and do-er of things. This is my page
+A blog for all and sundry
