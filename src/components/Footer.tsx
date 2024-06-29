@@ -7,12 +7,6 @@ import Instagram from "./icons/instagram";
 const today = new Date();
 
 const socials = [
-	{ name: "Github", href: "https://github.com/piratechnics", icon: Github },
-	{
-		name: "LinkedIn",
-		href: "https://www.linkedin.com/in/devinyounge/",
-		icon: LinkedIn,
-	},
 	{
 		name: "Bluesky",
 		href: "https://bsky.app/profile/piratechnics.bsky.social",
@@ -23,6 +17,12 @@ const socials = [
 		href: "https://www.instagram.com/piratechnics/",
 		icon: Instagram,
 	},
+	{
+		name: "LinkedIn",
+		href: "https://www.linkedin.com/in/devinyounge/",
+		icon: LinkedIn,
+	},
+	{ name: "Github", href: "https://github.com/piratechnics", icon: Github },
 ];
 
 const Footer = () => {
@@ -42,7 +42,7 @@ const Footer = () => {
 				</div>
 				<div
 					id="footer-socials"
-					className="grid grid-cols-2 gap-x-2 place-items-center me-4"
+					className="grid grid-cols-2 sm:grid-cols-4 gap-x-2 place-items-center me-4"
 				>
 					{socials.map((entry) => (
 						<div key={`social-${entry.name}`}>
