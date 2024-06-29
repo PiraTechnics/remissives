@@ -1,6 +1,6 @@
 {
-  "commit": "294ecbe2371377a6fb756071df84e0cb236a9fa5",
-  "generated": "2024-06-29T14:43:08.327Z",
+  "commit": "080f8c51682910c450aa5109ea188162d592d813",
+  "generated": "2024-06-29T15:54:01.843Z",
   "metadata": [
     {
       "__outstatic": {
@@ -84,6 +84,24 @@
       "slug": "home",
       "status": "published",
       "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "080f8c51682910c450aa5109ea188162d592d813",
+        "hash": "3686190022",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "PiraTechnics",
+        "picture": "https://avatars.githubusercontent.com/u/116609551?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-29T15:07:01.602Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
     }
   ]
 }
