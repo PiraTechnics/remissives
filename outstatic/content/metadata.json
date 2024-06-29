@@ -1,25 +1,7 @@
 {
   "commit": "ff96f7ad9a2fc85c8b3cfcf5202c513cc1af747c",
-  "generated": "Sat, 29 Jun 2024 14:39:56 GMT",
+  "generated": "Sat, 29 Jun 2024 14:41:22 GMT",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "2e64df7da2ed2157e963e5ad61d2e00dbc3c3a78",
-        "hash": "2163459916",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Devin Younge",
-        "picture": "/images/profile-signature-M2NT.jpg"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2024-06-18T22:15:07.000Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
     {
       "__outstatic": {
         "commit": "998b7f74af83e46bbdb4ab5302c8e4c39963278f",
@@ -84,6 +66,24 @@
         }
       ],
       "title": "Learn how to create your blog with Outstatic"
+    },
+    {
+      "__outstatic": {
+        "commit": "2e64df7da2ed2157e963e5ad61d2e00dbc3c3a78",
+        "hash": "2163459916",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Devin Younge",
+        "picture": "/images/profile-signature-M2NT.jpg"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog.",
+      "publishedAt": "2024-06-18T22:15:07.000Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
