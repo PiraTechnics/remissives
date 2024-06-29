@@ -1,94 +1,10 @@
 {
-  "commit": "7174d9ae72b609833c4157aa7ff3147cf3ba5a3a",
-  "generated": "2024-06-29T16:23:05.127Z",
+  "commit": "ee605df8581888e1dd1dc8b3a050c9b33b0fceba",
+  "generated": "Sat, 29 Jun 2024 16:24:16 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "d2f316fd04def3347c906f5227da5daf79971f61",
-        "hash": "4086614036",
-        "path": "outstatic/content/posts/nothing-wrong.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/industrial-pattern.png",
-      "description": "One more day, one more joy. I feel blessed.",
-      "publishedAt": "2022-09-14T17:55:40.452Z",
-      "slug": "nothing-wrong",
-      "status": "published",
-      "title": "Nothing is wrong. Everything is perfect"
-    },
-    {
-      "__outstatic": {
-        "commit": "525018a11c751fe66b5d0737807e67e06955cecd",
-        "hash": "2506648264",
-        "path": "outstatic/content/posts/how-to-create-an-outstatic-blog.md"
-      },
-      "author": {
-        "name": "Andre Vitorio"
-      },
-      "collection": "posts",
-      "coverImage": "/images/jupiter-spaceship.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore.",
-      "publishedAt": "2022-07-14T02:34:02.322Z",
-      "slug": "how-to-create-an-outstatic-blog",
-      "status": "published",
-      "tags": [
-        {
-          "label": "NextJs",
-          "value": "nextJs"
-        },
-        {
-          "label": "GitHub",
-          "value": "gitHub"
-        },
-        {
-          "label": "Outstatic",
-          "value": "outstatic"
-        }
-      ],
-      "title": "Learn how to create your blog with Outstatic"
-    },
-    {
-      "__outstatic": {
-        "commit": "294ecbe2371377a6fb756071df84e0cb236a9fa5",
-        "hash": "2163459916",
-        "path": "outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Devin Younge",
-        "picture": "/images/profile-signature-M2NT.jpg"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog.",
-      "publishedAt": "2024-06-18T22:15:07.000Z",
-      "slug": "home",
-      "status": "published",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "080f8c51682910c450aa5109ea188162d592d813",
-        "hash": "3686190022",
-        "path": "outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "PiraTechnics",
-        "picture": "https://avatars.githubusercontent.com/u/116609551?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-06-29T15:07:01.602Z",
-      "slug": "about",
-      "status": "published",
-      "title": "About"
-    },
-    {
-      "__outstatic": {
-        "commit": "7174d9ae72b609833c4157aa7ff3147cf3ba5a3a",
+        "commit": "f0b761b344615289074dd965b5cb8858f230edc9",
         "hash": "1311153231",
         "path": "outstatic/content/posts/setting-sail.md"
       },
@@ -113,6 +29,42 @@
         }
       ],
       "title": "Setting Sail"
+    },
+    {
+      "__outstatic": {
+        "commit": "2e64df7da2ed2157e963e5ad61d2e00dbc3c3a78",
+        "hash": "2163459916",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Devin Younge",
+        "picture": "/images/profile-signature-M2NT.jpg"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog.",
+      "publishedAt": "2024-06-18T22:15:07.000Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "c4d26b250f4d37006ff65fedaddf067d08f1af9a",
+        "hash": "3686190022",
+        "path": "outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "PiraTechnics",
+        "picture": "https://avatars.githubusercontent.com/u/116609551?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-06-29T15:07:01.602Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About"
     }
   ]
 }
