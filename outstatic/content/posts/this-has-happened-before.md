@@ -55,7 +55,7 @@ I take it back, this isn't a *problem*. It's a *disaster*. Misinformation and pr
 
 Just under two and a half centuries ago, the Second Continental Congress formally adopted the *Declaration of Indendendence*, proclaiming:
 
-> “We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable rights, that among these are Life, Liberty and the Pursuit of Happiness.”
+> We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable rights, that among these are Life, Liberty and the Pursuit of Happiness.
 
 This was, at the time, a radical notion. But the idea, the promise that a person, no matter their birth, should have all the same rights as any monarch, and noble, proved to be a powerful one. It is true that we have never fully lived up to this promise -- Racial inequality, Xenophobia, Homophobia, Misogyny, and other forms of bigotry have been written in laws and enforced to our detriment for much of our history. But the current of justice flowed towards delivering on that promise of equality, when those brave enough to fight for it were tested and stood up.
 
