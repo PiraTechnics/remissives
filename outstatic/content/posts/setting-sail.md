@@ -25,7 +25,7 @@ I'm marking today as the start of something. As long as I can remember, I have e
 
 As I got older, the books I read changed, and I slowly learned more and more about what I enjoyed in fiction, as well as writing styles. I tried my hand several times at writing myself, although I don't recall the specifics of those early attempts.
 
-## *It's all a*bout the story
+## *It's all* about the story
 
 You see, the one thing I realized about myself from the get-go was that I loved *stories*. I loved reading them, I loved telling them, I loved thinking about them. Even as I 'grew up', this remained true. Towards the end of high school, and on into university, I'd mostly swapped the book for a game controller -- but inevitably it seems, I always preferred games that were much bigger on narrative than shiny graphics.
 
