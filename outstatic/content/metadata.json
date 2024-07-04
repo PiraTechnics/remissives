@@ -1,6 +1,6 @@
 {
   "commit": "ac20df1b221dbcdc3378c16767609cebbc667593",
-  "generated": "2024-07-04T17:21:44.959Z",
+  "generated": "2024-07-04T17:24:56.299Z",
   "metadata": [
     {
       "__outstatic": {
@@ -69,7 +69,7 @@
     {
       "__outstatic": {
         "commit": "ac20df1b221dbcdc3378c16767609cebbc667593",
-        "hash": "1784757333",
+        "hash": "3057205378",
         "path": "outstatic/content/posts/this-has-happened-before.md"
       },
       "author": {
@@ -83,6 +83,22 @@
       "slug": "this-has-happened-before",
       "status": "published",
       "tags": [
+        {
+          "label": "Current Affairs",
+          "value": "currentAffairs"
+        },
+        {
+          "label": "History",
+          "value": "history"
+        },
+        {
+          "label": "Democracy",
+          "value": "democracy"
+        },
+        {
+          "label": "Musings",
+          "value": "musings"
+        }
       ],
       "title": "This has happened before"
     }

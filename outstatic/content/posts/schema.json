@@ -28,6 +28,18 @@
         {
           "value": "writing",
           "label": "Writing"
+        },
+        {
+          "value": "currentAffairs",
+          "label": "Current Affairs"
+        },
+        {
+          "value": "history",
+          "label": "History"
+        },
+        {
+          "value": "democracy",
+          "label": "Democracy"
         }
       ]
     }

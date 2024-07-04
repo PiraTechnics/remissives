@@ -7,7 +7,7 @@ author:
 slug: 'this-has-happened-before'
 description: 'What can we do when so many of us deny our values?'
 coverImage: '/images/usa-kzMz.jpg'
-tags: []
+tags: [{"label":"Current Affairs","value":"currentAffairs"},{"label":"History","value":"history"},{"label":"Democracy","value":"democracy"},{"value":"musings","label":"Musings"}]
 publishedAt: '2024-07-04T15:12:22.385Z'
 ---
 
