@@ -1,6 +1,6 @@
 {
-  "commit": "58626836c9181ca78ec57b7b4e0a9b4efd6cbd4a",
-  "generated": "2024-07-04T02:08:00.330Z",
+  "commit": "089e519b0d9d55192f3408c17c8fc357bfe01dad",
+  "generated": "2024-07-04T17:21:35.907Z",
   "metadata": [
     {
       "__outstatic": {
@@ -65,6 +65,26 @@
         }
       ],
       "title": "Setting Sail"
+    },
+    {
+      "__outstatic": {
+        "commit": "089e519b0d9d55192f3408c17c8fc357bfe01dad",
+        "hash": "1996079370",
+        "path": "outstatic/content/posts/this-has-happened-before.md"
+      },
+      "author": {
+        "name": "Devin Younge",
+        "picture": "/images/profile-signature-UyMj.jpg"
+      },
+      "collection": "posts",
+      "coverImage": "/images/usa-kzMz.jpg",
+      "description": "What can we do when so many of us deny our values?",
+      "publishedAt": "2024-07-04T15:12:22.385Z",
+      "slug": "this-has-happened-before",
+      "status": "draft",
+      "tags": [
+      ],
+      "title": "This has happened before"
     }
   ]
 }
