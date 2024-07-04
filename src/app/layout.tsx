@@ -2,6 +2,7 @@ import { absoluteUrl } from "@/lib/utils";
 import { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "../styles/index.css";
+import { Analytics } from "@vercel/analytics/react";
 
 const inter = Inter({
 	subsets: ["latin"],
@@ -43,7 +44,10 @@ export default function RootLayout({
 }) {
 	return (
 		<html className={inter.className} lang="en">
-			<body>{children}</body>
+			<body>
+				{children}
+				<Analytics />
+			</body>
 		</html>
 	);
 }
