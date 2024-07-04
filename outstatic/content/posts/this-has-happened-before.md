@@ -1,17 +1,17 @@
 ---
 title: 'This has happened before'
-status: 'draft'
+status: 'published'
 author:
   name: 'Devin Younge'
   picture: '/images/profile-signature-UyMj.jpg'
 slug: 'this-has-happened-before'
 description: 'What can we do when so many of us deny our values?'
 coverImage: '/images/usa-kzMz.jpg'
-tags: ''
+tags: []
 publishedAt: '2024-07-04T15:12:22.385Z'
 ---
 
-There is an old adage that goes: 
+There is an old adage that goes:
 
 "Those who do not learn from history are doomed to repeat it."
 

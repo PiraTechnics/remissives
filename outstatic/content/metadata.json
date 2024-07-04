@@ -1,6 +1,6 @@
 {
-  "commit": "089e519b0d9d55192f3408c17c8fc357bfe01dad",
-  "generated": "2024-07-04T17:21:35.907Z",
+  "commit": "ac20df1b221dbcdc3378c16767609cebbc667593",
+  "generated": "2024-07-04T17:21:44.959Z",
   "metadata": [
     {
       "__outstatic": {
@@ -68,8 +68,8 @@
     },
     {
       "__outstatic": {
-        "commit": "089e519b0d9d55192f3408c17c8fc357bfe01dad",
-        "hash": "1996079370",
+        "commit": "ac20df1b221dbcdc3378c16767609cebbc667593",
+        "hash": "1784757333",
         "path": "outstatic/content/posts/this-has-happened-before.md"
       },
       "author": {
@@ -81,7 +81,7 @@
       "description": "What can we do when so many of us deny our values?",
       "publishedAt": "2024-07-04T15:12:22.385Z",
       "slug": "this-has-happened-before",
-      "status": "draft",
+      "status": "published",
       "tags": [
       ],
       "title": "This has happened before"
