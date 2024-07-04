@@ -21,7 +21,7 @@ Anyway, enough musing on cosmic (in)significance.
 
 I'm marking today as the start of something. As long as I can remember, I have enjoyed the written word. I started reading at a young age -- and am ever-thankful to my parents for encouraging it. I'm sure they weren't the first, but I have fond memories of scholastic classics such as *The Berenstain Bears* and *The Magic School Bus*. Naturally, the Scholastic Book Fair was the event of the season for little me.
 
-![Magic School Bus Cover, with titular bus filled with children, driving towards a gigantic eyeball](/images/9780590446983_p0_v2_s1200x630-U1MT.jpg)
+![Magic School Bus Cover, with titular bus filled with children, driving towards a gigantic eyeball](/images/9780590446983_p0_v2_s1200x630-U1MT.jpg)   *The Magic School Bus: Adventures in Body Horror*
 
 As I got older, the books I read changed, and I slowly learned more and more about what I enjoyed in fiction, as well as writing styles. I tried my hand several times at writing myself, although I don't recall the specifics of those early attempts.
 
